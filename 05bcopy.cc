@@ -16,7 +16,6 @@ private:
 string name;
 int id;
 
-
 int main() {
   A a1(1,2);
   A a2 = a1; // makes a copy
