@@ -15,8 +15,7 @@ class B:public A{
 private:
 string name;
 int id;
-public:
-B(string n, int i): name(n),id(i){}
+
 
 int main() {
   A a1(1,2);
